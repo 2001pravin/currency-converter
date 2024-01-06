@@ -1,11 +1,12 @@
-# Demo: https://currency-i-converter.netlify.app/
+# Demo: 
+https://currency-i-converter.netlify.app/
 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Technologies Used](#technologies-used)
 
 ## Introduction
-In my Vendor Management project, I strategically designed and implemented a streamlined system, enhancing efficiency and collaboration in vendor interactions while leveraging my web development skills to create a seamless user experience.
+A Currency Converter Web App designed with HTML, Tailwind CSS, and JavaScript. Simplifies currency exchange with real-time rates, crucial for travel, online shopping, and global business.
 
 
 ## Technologies Used
